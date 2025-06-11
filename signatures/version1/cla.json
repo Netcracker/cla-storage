@@ -391,6 +391,14 @@
       "created_at": "2025-06-09T07:36:27Z",
       "repoId": 908183134,
       "pullRequestNo": 46
+    },
+    {
+      "name": "KryukovaPolina",
+      "id": 32718724,
+      "comment_id": 2961756416,
+      "created_at": "2025-06-11T08:43:07Z",
+      "repoId": 887165760,
+      "pullRequestNo": 56
     }
   ]
 }
