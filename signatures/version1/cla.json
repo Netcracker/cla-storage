@@ -655,6 +655,14 @@
       "created_at": "2025-08-21T14:06:07Z",
       "repoId": 907632263,
       "pullRequestNo": 139
+    },
+    {
+      "name": "iurii-golovinskii",
+      "id": 192586647,
+      "comment_id": 3213504293,
+      "created_at": "2025-08-22T08:16:42Z",
+      "repoId": 907632263,
+      "pullRequestNo": 140
     }
   ]
 }
