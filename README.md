@@ -7,5 +7,3 @@ This repository stores **Contributor License Agreements (CLA)** signed by extern
 - Store signed CLA documents
 - Provide a single source of truth for legal verification
 - Support Netcracker's CLA enforcement process across all repositories
-  asda
-  asdad
