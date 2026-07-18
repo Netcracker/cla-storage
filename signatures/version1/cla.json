@@ -1279,6 +1279,14 @@
       "created_at": "2026-07-15T08:16:14Z",
       "repoId": 908900166,
       "pullRequestNo": 232
+    },
+    {
+      "name": "serhiibuhaiov",
+      "id": 225831232,
+      "comment_id": 5011947648,
+      "created_at": "2026-07-18T16:09:32Z",
+      "repoId": 950138668,
+      "pullRequestNo": 84
     }
   ]
 }
